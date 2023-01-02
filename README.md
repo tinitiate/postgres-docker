@@ -15,7 +15,7 @@
    From the command prompt run the following cmd:
    
    ```
-   git clone https://github.com/syntaxboard/postgres-docker
+   git clone https://github.com/tinitiate/postgres-docker.git
    
    ```
    
