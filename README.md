@@ -27,6 +27,7 @@
 
     ### Command to run the docker in the background
     ```
+    docker network create tinitiate
     docker-compose up -d
     ```
     ### Command to remove the container 
