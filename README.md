@@ -8,7 +8,7 @@
    
    ```   
    
-    ![image](./cmd.png)
+    ![image](./createDirectory.png)
   
 2. Clone the postgres repository to that folder.
    
