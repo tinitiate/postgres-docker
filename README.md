@@ -3,6 +3,7 @@
    
    From the command prompt run the following cmd:
    
+   ![image](./terminal.png)
    ```
    mkdir postgres
    
@@ -13,7 +14,7 @@
 2. Clone the postgres repository to that folder.
    
    From the command prompt run the following cmd:
-   
+   ![image](./git.png)
    ```
    git clone https://github.com/tinitiate/postgres-docker.git
    
